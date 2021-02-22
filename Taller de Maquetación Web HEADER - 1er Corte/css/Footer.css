@@ -1,0 +1,54 @@
+/* footer */
+body { 
+margin: 0;
+padding: 0;
+}
+footer {
+width: 100%; 
+height: 300px;    
+position: relative;  
+top: 500px;  
+background: rgb(95, 95, 95);
+}
+footer article  { 
+width: 100%; 
+height: 111px; 
+float: none; 
+position: relative; 
+}
+footer article figure  {  
+width: 150px;  
+height: 135px;  
+margin: 2px;
+left: 540px;
+float: none;  
+position: relative; 
+margin-bottom: 10px;
+}
+footer article figure a { 
+width: 500px;
+height: 100px;
+float: none;  
+position: relative;  
+}
+footer article figure a img {
+width: 160px;  
+height: 115px;  
+margin: 0;  
+float: none;  
+position: relative;  
+left: 15px;
+margin-top: 50px;
+}
+footer article nav {
+margin-top: 50px;
+color: white;
+}
+footer article nav a { 
+left: 500px;
+position: relative;
+}
+
+
+
+
